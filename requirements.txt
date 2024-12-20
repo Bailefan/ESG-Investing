@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy
+dtaidistance==2.3.11
+yfinance==0.2.50
+tqdm==4.66.5
+
+matplotlib==3.8.4
+
+jupyter
+jupyterlab
+jupyterlab_code_formatter
+jupyterlab_widgets
+ipywidgets
